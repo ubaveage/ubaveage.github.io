@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubaveage.github.io/DuW/sitemap_index.txt
+Sitemap: https://ubaveage.github.io/phU/sitemap_index.txt
+Sitemap: https://ubaveage.github.io/pyD/sitemap_index.txt
+Sitemap: https://ubaveage.github.io/uGy/sitemap_index.txt
